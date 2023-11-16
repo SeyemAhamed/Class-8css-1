@@ -1,0 +1,13 @@
+
+CSS = Cascading Style Sheet
+
+1. Inline CSS (Property, Value)
+2. Internal CSS (Selector, Property, Value)
+3. External CSS (Selector, Property, Value) (.css)
+
+
+Part Of CSS...
+
+1. Selector (tag, class, id) dot(.)=>class, hash(#)=>id
+2. Property
+3. Value
